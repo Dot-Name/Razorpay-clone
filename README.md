@@ -1,1 +1,1 @@
-# Starter_pack_for_tailwind
+# Razorpay Clone using tailwind
